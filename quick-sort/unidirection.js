@@ -1,7 +1,4 @@
-/**
- * Created by lipeishang on 17-7-30.
- */
-var arr = [1 ,7,2,5,4,9];
+var arr = [1,7,2,5,4,9];
 function quicksort (arr) {
     function swap (arr, m, n) {
         var tmp = arr[m];
